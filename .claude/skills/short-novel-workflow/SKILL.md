@@ -49,6 +49,7 @@ description: 短篇小说创作工作流，逐步引导用户完成10,000-50,000
 
 - **创作规范**：[quality-standards.md](references/quality-standards.md)
 - **小说模板**：[novel-template.md](references/novel-template.md)
+- **盐选指南**：[yanxuan-guide.md](references/yanxuan-guide.md) - 知乎盐选平台创作标准（结构指标、类型文指南、情绪调动技巧）
 
 ## 快捷命令
 
