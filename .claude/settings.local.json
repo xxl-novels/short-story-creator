@@ -5,7 +5,10 @@
       "Bash(git:*)",
       "mcp__web-reader__webReader",
       "WebFetch(domain:localhost)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "WebSearch",
+      "Bash(xargs ls:*)",
+      "Bash(rm:*)"
     ]
   }
 }
